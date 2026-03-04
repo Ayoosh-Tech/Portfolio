@@ -691,6 +691,15 @@ footer::before {
     transition: all 0.3s ease;
 }*/
 
+.footer {
+    position: relative;
+    margin-top: 80px;
+    padding: 80px 20px 40px;
+    background: url("headerbg.jpg") center/cover no-repeat;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+  
+}
 
 
 /* Glass overlay */
